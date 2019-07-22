@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+joxi.ru	TRUE	/	FALSE	1999999999	js	14C6pMNWBydWFqJ3HByXgOtybHPA5LrSJhDzmBoVRNEl5TtD8l%2C5aIcHfZXxepbFQR1-kgaP%2CiT33KBpSm93R3
+joxi.ru	TRUE	/	FALSE	1999999999	lunetics_locale	en
+joxi.net	TRUE	/	FALSE	1999999999	js	sPatBkMNqzsXSlY8BCI7mL-LMkxFjVVYoBFcD-vbhlNyy3HurR1olNASAyY4HHoDX2tu7-zM6fejG4%2Ck8ZVkg2
+joxi.net	TRUE	/	FALSE	1999999999	lunetics_locale	en
+

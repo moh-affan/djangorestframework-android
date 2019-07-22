@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 18 Jul 2019 13:33:59 at https://www.django-rest-framework.org +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.django-rest-framework.org -O1 "D:\Downloads\django-restframework" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/tutorial/ (from https://www.django-rest-framework.org/tutorial/quickstart/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/api-guide/pagination/github-link-pagination (from https://www.django-rest-framework.org/api-guide/pagination/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/topics/api-guide/schemas/ (from https://www.django-rest-framework.org/topics/documenting-your-api/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/topics/api-guide/metadata/ (from https://www.django-rest-framework.org/topics/documenting-your-api/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/topics/third-party-packages/ (from https://www.django-rest-framework.org/community/third-party-packages/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/3.10-announcement/community/funding.md (from https://www.django-rest-framework.org/community/3.10-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/api-guide/schemas/ (from https://www.django-rest-framework.org/community/3.5-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/3.4-announcement/api-clients (from https://www.django-rest-framework.org/community/3.4-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/tutorial/7-schemas-and-client-libraries/ (from https://www.django-rest-framework.org/community/3.4-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/api-guide/metadata/ (from https://www.django-rest-framework.org/community/3.4-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/3.4-announcement/release-notes (from https://www.django-rest-framework.org/community/3.4-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/api-guide/fields (from https://www.django-rest-framework.org/community/3.3-announcement/)
+13:35:51	Error: 	"Not Found" (404) at link https://www.django-rest-framework.org/community/api-guide/pagination/ (from https://www.django-rest-framework.org/community/3.1-announcement/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 58 seconds : 211 links scanned, 197 files written (10853924 bytes overall) [8966157 bytes received at 75984 bytes/sec], 2928844 bytes transferred using HTTP compression in 90 files, ratio 23%, 6.1 requests per connection
+(13 errors, 0 warnings, 0 messages)
